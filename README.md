@@ -36,7 +36,7 @@ The task is to:
 
 - Apply the ICE framework to prioritize hypotheses. Sort them in descending order of priority.
 - Apply the RICE framework to prioritize hypotheses. Sort them in descending order of priority.
-- Show how the prioritization of hypotheses changes when you use RICE instead of ICE. Provide an explanation for the changes.
+- Show how the prioritization of hypotheses changes when we use RICE instead of ICE. Provide an explanation for the changes.
 
 # Part 2. A/B Test Analysis
 We carried out an A/B test and got the results described in the files _orders_us.csv_ and _visits_us.csv_.
